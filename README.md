@@ -4,7 +4,7 @@ A simple, menu-driven Python project that reads daily weather records from a CSV
 
 > **Project No.:** 87  
 > **Author:** Manas Singh  
-> **Language:** Python 3
+> **Language:** Python 3.15.2
 
 ## ✨ Features
 
